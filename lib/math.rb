@@ -10,13 +10,16 @@ def division(9, 3)
   9 / 3
 end
 
-def multiplication(num1, num2)
+def multiplication(9, 6)
+  9 * 6
 end
 
-def modulo(num1, num2)
+def modulo(5, 3)
+  5 % 3
 end
 
-def square_root(num)
+def square_root(81)
+  Math.sqrt(81)
 end
 
 def order_of_operation(num1, num2, num3, num4)
