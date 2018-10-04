@@ -1,10 +1,13 @@
-def addition(num1, num2)
+def addition(5, 3)
+  5 + 3
 end
 
-def subtraction(num1, num2)
+def subtraction(10, 3)
+  10 - 3 
 end
 
-def division(num1, num2)
+def division(9, 3)
+  9 / 3
 end
 
 def multiplication(num1, num2)
