@@ -1,27 +1,27 @@
-def addition(5, 3)
+def addition(num1, num2)
   5 + 3
 end
 
-def subtraction(10, 3)
+def subtraction(num1, num2)
   10 - 3 
 end
 
-def division(9, 3)
+def division(num1, num2)
   9 / 3
 end
 
-def multiplication(9, 6)
+def multiplication(num1, num2)
   9 * 6
 end
 
-def modulo(5, 3)
+def modulo(num1, num2)
   5 % 3
 end
 
-def square_root(81)
+def square_root(num1)
   Math.sqrt(81)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+  #Hint:  98 + (( 13 * 5 ) / 6 )
 end
